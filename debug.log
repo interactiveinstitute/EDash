@@ -1,0 +1,53 @@
+[0818/185253:INFO:CONSOLE(128)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:docKey-25056 (128)
+[0818/185323:INFO:CONSOLE(128)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:docKey-25057 (128)
+[0818/190226:INFO:CONSOLE(84)] "Uncaught SyntaxError: Unexpected identifier", source: about:docKey-25066 (84)
+[0818/190235:INFO:CONSOLE(84)] "Uncaught SyntaxError: Unexpected identifier", source: about:docKey-25067 (84)
+[0818/190613:INFO:CONSOLE(116)] "Uncaught SyntaxError: Unexpected token (", source: about:docKey-25073 (116)
+[0818/190622:INFO:CONSOLE(116)] "Uncaught SyntaxError: Unexpected token (", source: about:docKey-25074 (116)
+[0902/094402:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277606 (75)
+[0902/094409:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277607 (75)
+[0902/094436:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277608 (75)
+[0902/094446:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277609 (75)
+[0902/094507:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277610 (75)
+[0902/094515:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277611 (75)
+[0902/094536:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277614 (75)
+[0902/094702:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277615 (75)
+[0902/094719:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277616 (75)
+[0902/094805:INFO:CONSOLE(75)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277617 (75)
+[0902/095904:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277636 (90)
+[0902/095918:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277637 (90)
+[0902/100003:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277640 (90)
+[0902/100007:INFO:CONSOLE(90)] "Uncaught SyntaxError: Unexpected token +=", source: about:docKey-277641 (90)
+[0902/102155:INFO:CONSOLE(95)] "Uncaught SyntaxError: Unexpected token <", source: about:docKey-279673 (95)
+[0902/102159:INFO:CONSOLE(95)] "Uncaught SyntaxError: Unexpected token <", source: about:docKey-279674 (95)
+[0903/161812:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45
+    at Object.helium.callbackTunnel (v8/app:1:588)
+    at HTMLDocument.<anonymous> (http://127.0.0.1:54321/welcome_to_project_edge/WelcomeToEdge.js:1:19112)
+    at n (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14784)
+    at Object.o.fireWith (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:15553)
+    at Function.e.extend.ready (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:9773)
+    at HTMLDocument.c.addEventListener.B (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14348)", source:  (1)
+[0903/161813:ERROR:ipc_channel_win.cc(401)] pipe error: 232
+[0903/161813:ERROR:ipc_channel_win.cc(401)] pipe error: 232
+[0903/161828:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45
+    at Object.helium.callbackTunnel (v8/app:1:588)
+    at HTMLDocument.<anonymous> (http://127.0.0.1:54321/welcome_to_project_edge/WelcomeToEdge.js:1:19112)
+    at n (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14784)
+    at Object.o.fireWith (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:15553)
+    at Function.e.extend.ready (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:9773)
+    at HTMLDocument.c.addEventListener.B (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14348)", source:  (1)
+[0903/161858:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0903/161947:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45
+    at Object.helium.callbackTunnel (v8/app:1:588)
+    at HTMLDocument.<anonymous> (http://127.0.0.1:54321/welcome_to_project_edge/WelcomeToEdge.js:1:19112)
+    at n (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14784)
+    at Object.o.fireWith (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:15553)
+    at Function.e.extend.ready (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:9773)
+    at HTMLDocument.c.addEventListener.B (http://127.0.0.1:54321/welcome_to_project_edge/edge_includes/jquery-1.7.1.min.js:2:14348)", source:  (1)
+[0903/164816:ERROR:ipc_channel_win.cc(132)] pipe error: 109

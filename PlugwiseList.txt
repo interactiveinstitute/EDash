@@ -1,0 +1,17 @@
+PlugwiseMunktell/000d6f0000995463/location Red1 - Computer conference room
+
+PlugwiseMunktell/000d6f0000994bd1/location Red2 - n/a
+
+PlugwiseMunktell/000d6f0000994bda/location Red3 - Coffemachine
+
+PlugwiseMunktell/000d6f0000998b67/location Red4 - Elinor pc
+
+PlugwiseMunktell/000d6f0000994ad8/location Red5 - Kettle
+
+PlugwiseMunktell/000d6f0000b1dbf8/location Red6 - 
+
+PlugwiseMunktell/000d6f0000995172/location Red7 - 
+
+PlugwiseMunktell/000d6f0000998bc3/location Red8 - 
+
+PlugwiseMunktell/000d6f0000b1dbff/location Red9 - 
